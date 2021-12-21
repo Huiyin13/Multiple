@@ -6,6 +6,7 @@ public class ModalClass {
 
     String imagename;
     Uri image;
+    String image2;
 
     public ModalClass() {
     }
